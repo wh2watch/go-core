@@ -1,4 +1,4 @@
-module core
+module github.com/wh2watch/go-core
 
 go 1.21
 
